@@ -1,0 +1,16 @@
+C:\Users\Duncan\Projects\CSharp\PureGymEx1\Domain.Tests\obj\Debug\netstandard2.0\Domain.Tests.csprojAssemblyReference.cache
+C:\Users\Duncan\Projects\CSharp\PureGymEx1\Domain.Tests\obj\Debug\netstandard2.0\Domain.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Duncan\Projects\CSharp\PureGymEx1\Domain.Tests\obj\Debug\netstandard2.0\Domain.Tests.AssemblyInfoInputs.cache
+C:\Users\Duncan\Projects\CSharp\PureGymEx1\Domain.Tests\obj\Debug\netstandard2.0\Domain.Tests.AssemblyInfo.cs
+C:\Users\Duncan\Projects\CSharp\PureGymEx1\Domain.Tests\bin\Debug\netstandard2.0\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Duncan\Projects\CSharp\PureGymEx1\Domain.Tests\bin\Debug\netstandard2.0\xunit.runner.reporters.net452.dll
+C:\Users\Duncan\Projects\CSharp\PureGymEx1\Domain.Tests\bin\Debug\netstandard2.0\xunit.runner.utility.net452.dll
+C:\Users\Duncan\Projects\CSharp\PureGymEx1\Domain.Tests\bin\Debug\netstandard2.0\xunit.abstractions.dll
+C:\Users\Duncan\Projects\CSharp\PureGymEx1\Domain.Tests\bin\Debug\netstandard2.0\Domain.Tests.deps.json
+C:\Users\Duncan\Projects\CSharp\PureGymEx1\Domain.Tests\bin\Debug\netstandard2.0\Domain.Tests.dll
+C:\Users\Duncan\Projects\CSharp\PureGymEx1\Domain.Tests\bin\Debug\netstandard2.0\Domain.Tests.pdb
+C:\Users\Duncan\Projects\CSharp\PureGymEx1\Domain.Tests\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\Duncan\Projects\CSharp\PureGymEx1\Domain.Tests\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\Duncan\Projects\CSharp\PureGymEx1\Domain.Tests\obj\Debug\netstandard2.0\Domain.Tests.csproj.CopyComplete
+C:\Users\Duncan\Projects\CSharp\PureGymEx1\Domain.Tests\obj\Debug\netstandard2.0\Domain.Tests.dll
+C:\Users\Duncan\Projects\CSharp\PureGymEx1\Domain.Tests\obj\Debug\netstandard2.0\Domain.Tests.pdb
